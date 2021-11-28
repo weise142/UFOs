@@ -2,8 +2,8 @@
 ## Project Overview
 This project focuses on building a dynamic webpage of UFO sightings that accepts user inputs and adjusts the display and information for these inputs. The webpage is setup in a table format so users can filter UFO sightings based on different or multiple criteria such as event date, city, and shape.
 ## Resources
-Data Source: [UFO Data](https://github.com/weise142/UFOs/blob/main/static/js/data.js)
-Software: HTML, CSS, JavaScript, BootStrap, VS Code
+- Data Source: [UFO Data](https://github.com/weise142/UFOs/blob/main/static/js/data.js)
+- Software: HTML, CSS, JavaScript, BootStrap, VS Code
 ## Results
 ### Link to the UFO Sightings Webpage
 The deployed webpage is accessible at: https://weise142.github.io/UFOs/
